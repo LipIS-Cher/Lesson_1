@@ -21,7 +21,6 @@ public class Main {
 
         harry.printInfo();
 
-
         Gryffindor.comparisonSilasGry(harry,ghermiona);
         Puffendui.comparisonSilasPuf(zaharia, sedrik);
 
